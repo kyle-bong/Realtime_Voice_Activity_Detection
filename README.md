@@ -22,3 +22,6 @@ training/4. create_log_mel_spectrogram_and_training.ipynb 파일로 진행
 python3 realtime_detection.py
 ```
 
+Dataset link
+Speaking: AIHUB 등
+OtherSound: Freesound https://freesound.org/
