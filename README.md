@@ -6,7 +6,7 @@ Making Real time voice activity detection model
 데이터셋 선정 - audio slicing - data augmentation - training - test의 순으로 진행합니다.
 
 1. 데이터셋 선정
-preprocessing/1.OtherSound_audio_classification.ipynb 파일로 진행(음성 데이터 선정 코드는 추후 공개)
+preprocessing/1.OtherSound_audio_classification.ipynb 파일로 진행(음성 데이터 선정 코드는 작업중)
 
 2. audio slicing: 학습 데이터 파일을 일정 길이로 자릅니다.
 preprocessing/Slicing_audio.ipynb 파일로 진행
