@@ -1,7 +1,7 @@
 # Realtime_Voice_Activity_Detection
 Making Real time voice activity detection model
 
-입력으로 들어오는 오디오가 말소리인지 아닌지를 판단하는 모델을 만드는 코드입니다.
+입력으로 들어오는 오디오가 말소리인지 아닌지를 실시간으로 판단하는 모델을 만듭니다.
 
 데이터셋 선정 - audio slicing - data augmentation - training - test의 순으로 진행합니다.
 

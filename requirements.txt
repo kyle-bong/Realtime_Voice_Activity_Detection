@@ -14,7 +14,8 @@ scipy
 six
 sounddevice
 SoundFile
-tensorflow
+tensorflow-gpu==2.3.0
 
 
 tqdm
+pandas
